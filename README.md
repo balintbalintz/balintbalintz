@@ -1,6 +1,6 @@
 # I'm Balint
 
-Founder & product designer at [Brisk](https://staybrisk.com) — a web app built for freelancers and their clients.
+Founder & product designer at [Brisk](https://staybrisk.com) — a client platform for freelancers.
 
 I design and build Brisk end-to-end, from UX flows to production code. I've been shipping products remotely for US companies for 5+ years. Sometimes I write on [Substack](https://balintbogdan.substack.com) about product, building in public, and solo-founding.
 
