@@ -1,24 +1,25 @@
-# Hey, I'm Balint 👋
+# I'm Balint
 
-Product designer & founder building **Brisk** — a client platform for freelancers.
+Founder & product designer at [Brisk](https://staybrisk.com) — a web app built for freelancers and their clients.
 
----
-
-## About me
-
-- 🧠 Product design + full-stack web (Next.js / TypeScript)
-- ✍️ Writing a newsletter about product, tech, and solo-building
-- ♟️ Chess, running, and reading about startups when not coding
+I design and build Brisk end-to-end, from UX flows to production code. I've been shipping products remotely for US companies for 5+ years. Sometimes I write on [Substack](https://substack.com) about product, building in public, and solo-founding.
 
 ---
 
-## Tech I work with
+## Currently
 
-`Next.js` `TypeScript` `React` `Tailwind CSS` `Figma` `Vercel` `Turbo`
+- Shipping [Brisk](https://staybrisk.com): client portal, invoicing, and project management for freelancers
+- Iterating on onboarding flows and the core product experience
+- Writing about the process of building a SaaS as a solo designer-founder
 
 ---
 
-## Find me elsewhere
+## Ask me about
 
-- 💼 [LinkedIn](#)
-- ✍️ [Newsletter on Substack](#)
+`product design` · `Next.js` · `TypeScript` · `design systems` · `solo founding` · `Figma` · `Vercel` · `building in public`
+
+---
+
+## Find me
+
+[staybrisk.com](https://staybrisk.com) · [LinkedIn](#) · [Substack](#)
