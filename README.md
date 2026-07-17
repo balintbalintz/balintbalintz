@@ -6,14 +6,6 @@ I design and build Brisk end-to-end, from UX flows to production code. I've been
 
 ---
 
-## Currently
-
-- Shipping [Brisk](https://staybrisk.com): client portal, invoicing, and project management for freelancers
-- Iterating on onboarding flows and the core product experience
-- Writing about the process of building a SaaS as a solo designer-founder
-
----
-
 ## Ask me about
 
 `product design` · `UX` · `Figma` · `design systems` · `solo founding` · `building in public` · `Brisk`
